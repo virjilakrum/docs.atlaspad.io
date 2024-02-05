@@ -1,12 +1,26 @@
 ---
 description: Fully Trustless Cross/Multi-Chain ZK Launchpad
+cover: .gitbook/assets/MINA&ATLASPAD.jpeg
+coverY: -10
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Atlaspad Trustless zk-Launchpad
 
-<figure><img src=".gitbook/assets/Logo.png" alt=""><figcaption><p>Atlaspad</p></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/Logo.png" alt=""><figcaption><p>Atlaspad Image</p></figcaption></figure>
 
 **Atlaspad**, introduces a the first and only trustless **Cross-Chain** **ZK Launchpad** that utilizes zero-knowledge proofs to enable secure and private transactions across multiple blockchains. This cutting-edge platform addresses the pressing issues of privacy and high transaction costs in DeFi by allowing users to:
 
