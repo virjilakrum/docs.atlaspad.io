@@ -4,8 +4,6 @@ description: Technical Detail of Our zkApp Design
 
 # Architecture of "Atlaspad"
 
-
-
 <div data-full-width="true">
 
 <figure><img src="../.gitbook/assets/Scenerio(2).png" alt=""><figcaption><p>Architecture of zkApp Launchpad</p></figcaption></figure>
@@ -14,9 +12,7 @@ description: Technical Detail of Our zkApp Design
 
 **Platform Design and Layers**
 
-
-
-<mark style="color:blue;">**0. Frontend  Layer:**</mark>
+**`0. Frontend Layer`**
 
 _The Frontend/Backend Layer is the interface between the user and the platform, providing a responsive UI that adjusts to various devices and screen sizes, enhancing accessibility and ensuring a consistent user experience. The Web Client facilitates seamless interaction with blockchain services, while the AI Chatbot serves as an on-demand guide for user assistance and support._
 
@@ -46,7 +42,7 @@ Architecture Highlights:
 
 
 
-**1. User Interface Layer**
+**`1. User Interface Layer`**
 
 Components:
 
@@ -59,7 +55,7 @@ Functionality:
 \- _Authentication based on Merkle Tree and token allocation information is entered through this layer._\
 &#x20;
 
-**2. Application Layer**
+**`2. Application Layer`**
 
 Components:
 
@@ -71,7 +67,7 @@ Functionality:
 \- _This layer utilizes the lightweight nature of the Mina network, allowing users to prove transactions while protecting their credentials._\
 \- _Users can perform presale transactions or request a refund if needed._
 
-**3. Network Layer**
+**`3. Network Layer`**
 
 Components:
 
@@ -85,7 +81,7 @@ Functionality:
 \- _Users can perform staking transactions and stake their tokens through this layer._\
 &#x20;
 
-**4. Data Storage and Verification Layer**
+**`4. Data Storage and Verification Layer`**
 
 _The Data Layer employs Merkle Mountain Ranges for data integrity and offers off-chain storage with homomorphic encryption for enhanced security. It also utilizes IPFS or Celestia for data availability, ensuring that the launchpad’s data remains accessible and immutable._
 
@@ -94,35 +90,49 @@ Components:
 **- Merkle Tree(MMR-Merkle Mountain Ranges):**  _Data structure that stores users' token allocations and authentication information._\
 _The Merkle Proof consists of a construction that shows how to locate an input (OutX) in the total set of outputs MMR._\
 \
-Merkle Mountain Ranges is a structure used as an alternative to traditional Merkle trees. Merkle Mountain Ranges is a fully additive structure and items are added from left to right. MMR can be seen as a list of fully balanced binary trees of elements or as a single binary tree cut from the top right. MMR is used in the Grin project to store kernel, outputs and range proofs.\
+_Merkle Mountain Ranges is a structure used as an alternative to traditional Merkle trees. Merkle Mountain Ranges is a fully additive structure and items are added from left to right. MMR can be seen as a list of fully balanced binary trees of elements or as a single binary tree cut from the top right. MMR is used in the Grin project to store kernel, outputs and range proofs._\
 &#x20;
 
 **Structure and Functions**
 
-* **Height:** The height of each node in the MMR is obtained from the row to which it is added.
-*   **Hashing and Branching:** The parent nodes in MMR contain the hash of its two children. Grin uses the Blake2b hash function and always adds the position of the node before hashing. For example, if a leaf contains l, index **n** and data **D**:
+* **Height:** _The height of each node in the MMR is obtained from the row to which it is added._
+*   **Hashing and Branching:** _The parent nodes in MMR contain the hash of its two children. Grin uses the_ **`Blake2b`** _hash function and always adds the position of the node before hashing. For example, if a leaf contains_ **`l`**, index **`n`** and data **`D`**:
 
-    ```
+    {% code title="merkle.js" %}
+    ```javascript
     Node(l) = Blake2b(n | D)
     ```
-* **Bagging the Peaks:** A process is used to find the peaks in the MMR. The first left-hand peak is always the highest and always has a position "filled with ones". The position of the first peak can be expressed as 2^n - 1, which is smaller than the total size of the MMR. To find the other peaks, we move to their right siblings. This process is repeated until the positions of the peaks are determined.
-* **Pruning:** In Grin, some of the data in MMRs can be removed over time. In doing so, some leaves become redundant and their hashes can be removed. When enough leaves are removed, the existence of their parent nodes may also become redundant. Therefore, a significant portion of the MMR can be pruned by removing its leaves.\
+    {% endcode %}
+* **Bagging the Peaks:** _A process is used to find the peaks in the MMR. The first left-hand peak is always the highest and always has a position "filled with ones". The position of the first peak can be expressed as_ `2^n - 1,`_which is smaller than the total size of the MMR. To find the other peaks, we move to their right siblings. This process is repeated until the positions of the peaks are determined._
+* **Pruning:** _In Grin, some of the data in MMRs can be removed over time. In doing so, some leaves become redundant and their hashes can be removed. When enough leaves are removed, the existence of their parent nodes may also become redundant. Therefore, a significant portion of the MMR can be pruned by removing its leaves._\
   \
   Merkle Proof includes the following:\
-  \- _The hash of the leaf representing OutX._\
+  \- _The hash of the leaf representing `OutX.`_\
   \- _The hash of the overall root in the tree._\
   \- _A sequence of hashes representing all MMR vertices (this shows that together they form the overall root).- A list of sibling hashes to enable the construction of the branch from OutX to the top._\
-  \- _A list of sibling positions (left/right) to ensure the correct reconstruction of the branch. Merkle Proof is used to prove that a node is below its vertex and show that the vertexes form the overall root._\
-  Coinbase Output:\
-  _The wallet holds a Merkle Proof (and the corresponding block hash) for each unused coinbase output. In order to spend the coinbase output, the block hash and Merkle Proof must be provided on entry. This is used to verify coinbase maturity and does not require full block data._\
-  Wallet Verification:\
-  **- Initial Setup:** Each user's wallet is associated with a unique leaf in the MMR. When a user registers or makes their first transaction, their wallet's public information and a unique identifier (nullifier) are hashed and added to the MMR.\
-  **- zk-Proof Generation:** When a user initiates a session, they generate a zk-Proof that attests to the existence of their wallet's hash in the MMR without revealing the wallet's actual details. This proof can confirm the wallet's validity and the user's ownership securely and privately.\
-  **Transaction Processing:**\
-  **- Transaction Verification:** When a transaction is initiated, the MMR is used to verify that the participating wallets are valid and have not been double-spent. This verification is done by generating a zk-Proof that attests to the presence of the wallets' identifiers in the MMR and the absence of these identifiers in the list of spent nullifiers.\
-  **- Update Mechanism:** Once a transaction is verified and completed, the MMR is updated. This update includes appending new transactions and pruning spent outputs, which is critical for maintaining the MMR's efficiency and compactness.\
-  \
-  **- ZK Proofs:** Cryptographic proofs used to protect users' privacy while verifying the validity of their transactions.
+  \- _A list of sibling positions (left/right) to ensure the correct reconstruction of the branch. Merkle Proof is used to prove that a node is below its vertex and show that the vertexes form the overall root._
+
+
+
+<figure><img src="../.gitbook/assets/Nullifier Tree.png" alt="" width="375"><figcaption><p>Merkle Tree</p></figcaption></figure>
+
+\
+**Coinbase Output:**\
+_The wallet holds a Merkle Proof (and the corresponding block hash) for each unused coinbase output. In order to spend the coinbase output, the block hash and Merkle Proof must be provided on entry. This is used to verify coinbase maturity and does not require full block data._\
+Wallet Verification:
+
+\
+**- Initial Setup:** _Each user's wallet is associated with a unique leaf in the MMR. When a user registers or makes their first transaction, their wallet's public information and a unique identifier (nullifier) are hashed and added to the MMR._
+
+\
+**- zk-Proof Generation:** _When a user initiates a session, they generate a zk-Proof that attests to the existence of their wallet's hash in the MMR without revealing the wallet's actual details. This proof can confirm the wallet's validity and the user's ownership securely and privately_.
+
+\
+**Transaction Processing:**\
+**- Transaction Verification:** _When a transaction is initiated, the MMR is used to verify that the participating wallets are valid and have not been double-spent. This verification is done by generating a zk-Proof that attests to the presence of the wallets' identifiers in the MMR and the absence of these identifiers in the list of spent nullifiers._\
+**- Update Mechanism:** _Once a transaction is verified and completed, the MMR is updated. This update includes appending new transactions and pruning spent outputs, which is critical for maintaining the MMR's efficiency and compactness._\
+\
+**- ZK Proofs:** Cryptographic proofs used to protect users' privacy while verifying the validity of their transactions.
 
 Functionality:
 
@@ -134,30 +144,37 @@ Architecture Highlights:
 _- Off-Chain Storage with Homomorphic Encryption: Provides a secure way to compute on encrypted data._\
 _- IPFS or Celestia Data Availability: Offers decentralized storage solutions for persistent data availability._
 
-**5. Oracle Layer**
+**`5. Oracle Layer`**
 
 _Our primary objective is to incorporate the use of oracles into our system. To achieve this, we are planning to write a distinct Oracle for each Ethereum Virtual Machine (EVM) network that is connected to our zkApp. This is a deliberate strategy we are adopting in order to ensure robust and efficient communication and interaction between the various networks. We believe this is the most optimized and least compromising strategy available._\
 \
-_• In Atlas Oracle we will create ABIs to integrate with external data providers (contracts and user). These ABI functions will communicate with Merkle Tree to work with other MINA wallets to write an Oracle in each network._\
-&#x20;
+_• In Atlas Oracle we will create ABIs to integrate with external data providers (contracts and user). These ABI functions will communicate with Merkle Tree to work with other MINA wallets to write an Oracle in each network._
 
-**6. Wallet Layer:**
+<div align="center" data-full-width="false">
+
+<figure><img src="../.gitbook/assets/Ekran Resmi 2024-02-05 16.36.20.png" alt="" width="375"><figcaption><p>Oracle</p></figcaption></figure>
+
+</div>
+
+**`6. Wallet Layer:`**
 
 _Especially when we encourage the use of MINA's wallet and associate the EVM-based wallet with the MINA wallet, EVM users will be indirectly encouraged into the MINA ecosystem as our platform will create an interlinked MINA wallet for them seamlessly (if they lack it) behind the scenes and more zkApp projects will come for our Launchpad. The Wallet Layer is where financial management takes place. It encompasses core functionalities such as transaction management and user wallet services. Cross-chain compatibility and blockchain network communication signify the layer's ability to interact smoothly across different blockchain infrastructures._&#x20;
 
 Architecture Highlights:
 
-**1. Core Function/Implementation:** Manages all wallet operations with high security and efficiency.\
-**2. User Wallets/Transaction Management:** Provides users with full control over their transactions and funds.\
-**3. Cross-Chain Compatibility:** Ensures the wallet can operate over multiple blockchains, increasing its utility.
+**1. Core Function/Implementation:** _Manages all wallet operations with high security and efficiency._\
+**2. User Wallets/Transaction Management:** _Provides users with full control over their transactions and funds._\
+**3. Cross-Chain Compatibility:** _Ensures the wallet can operate over multiple blockchains, increasing its utility._
 
-Why It's the Right Choice:
+<figure><img src="../.gitbook/assets/Ekran Resmi 2024-02-05 16.37.58.png" alt="" width="563"><figcaption><p>zk-Wallet</p></figcaption></figure>
 
-\- The focus on core wallet functionalities ensures a secure and reliable financial environment.\
+
+
+**Why It's the Right Choice:**
+
+\- _The focus on core wallet functionalities ensures a secure and reliable financial environment._\
 \
-\-----------------------------------------------------------------------------------------------------------------
-
-
+\----------------------------------------------------------------------------------------------------------------
 
 \
 **Technology**\
@@ -167,7 +184,9 @@ Why It's the Right Choice:
 
 • _In the zkApp section of our Launchpad, when a user provides their MetaMask wallet, zkApp associates an Atlaspad Mina wallet with the user (client side) and returns it. To examine this process in detail, you can refer to the diagrams available in the links._\
 • _Launchpad utilizes **MMR Merkle Tree** algorithms in zkApp's offchain database and performs **nullifier** operations for access tokens to conduct zk-proof verifications._\
-• _There is **no KPI** due to zkApps_\
+• _There is **no KPI** due to zkApps_
+
+\
 \
 **System Components**\
 \
@@ -186,8 +205,20 @@ Why It's the Right Choice:
 **4. EVM Network:**\
 \- _Includes example networks such as Bnb, Eth, Avalanche._\
 \- _It is used for presale functions and is integrated with an oracle._\
+
+
+
+
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/Scenerio(1).png" alt=""><figcaption><p>Scenerio of Atlaspad</p></figcaption></figure>
+
+</div>
+
 \
-**Functionality**\
+**Functionality**
+
+\
 **Presale Operations**\
 \- _Users access the presale module through MetaMask and manage their tokens on EVM-compliant networks._\
 \- _In this process, users' credentials and allocated token amounts are stored in the Merkle tree._\
@@ -204,6 +235,8 @@ Why It's the Right Choice:
 
 **Contract List**
 
+<figure><img src="../.gitbook/assets/diagram(20).png" alt=""><figcaption><p>Contract Networks</p></figcaption></figure>
+
 \
 **`Oracle Contract`**` ``-solidity`\
 **`TokenLocker Contract`**` ``-solidity`\
@@ -219,7 +252,7 @@ Why It's the Right Choice:
 **`MinaPresale Contract`**` ``- o1js`\
 **`Mina Claim Contract`**` ``- o1js`
 
-\---------------------------------------------------------------------------------------------------------------------
+\--------------------------------------------------------------------------------------------------------------------
 
 **LINKS FOR ARCHITECTURE**
 
