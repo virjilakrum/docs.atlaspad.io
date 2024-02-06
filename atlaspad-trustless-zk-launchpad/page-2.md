@@ -83,9 +83,7 @@ _A chance encounter with colleagues during a random university event led Emre to
 • **github:** [https://github.com/gAtrium](https://github.com/gAtrium)\
 &#x20;
 
-
-
-<figure><img src="../.gitbook/assets/Ekran Resmi 2024-02-06 22.09.32.png" alt="" width="235"><figcaption><p>Yiğid Balaban</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Ekran Resmi 2024-02-06 22.22.47.png" alt="" width="188"><figcaption><p>Yiğid Balaban</p></figcaption></figure>
 
 **Yiğid Balaban |Frontend & UI/UX Developer**\
 _Designing and developing desktop applications, websites, and information systems since 2019, I have leveraged my technical expertise in blockchain-related projects. I've also taken the lead in several university teams at hackathons and competitions, collaborating with four distinct technical student communities._\
