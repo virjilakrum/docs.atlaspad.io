@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Atlaspad Trustless zk-Launchpad
+# 🔮 Atlaspad Trustless zk-Launchpad
 
 <figure><img src=".gitbook/assets/Logo.png" alt=""><figcaption><p>Atlaspad Image</p></figcaption></figure>
 

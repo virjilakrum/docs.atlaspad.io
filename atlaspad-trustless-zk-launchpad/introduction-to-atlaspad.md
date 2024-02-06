@@ -2,7 +2,7 @@
 description: Problem & Solution
 ---
 
-# Introduction to "Atlaspad"
+# 🎙 Introduction to "Atlaspad"
 
 ### **Problem**
 

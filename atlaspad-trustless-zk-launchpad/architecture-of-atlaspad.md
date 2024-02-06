@@ -2,7 +2,7 @@
 description: Technical Detail of Our zkApp Design
 ---
 
-# Architecture of "Atlaspad"
+# 🛠 Architecture of "Atlaspad"
 
 <div data-full-width="true">
 
