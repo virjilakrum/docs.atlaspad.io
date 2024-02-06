@@ -6,8 +6,22 @@ description: Atlaspad Developer Team
 
 #### Team Members
 
+<figure><img src="../.gitbook/assets/Ekran Resmi 2024-02-06 22.05.23.png" alt="" width="188"><figcaption><p>Çağlar Fırat</p></figcaption></figure>
+
 **Caglar Firat |CEO**\
-Active in the crypto sector since 2019. Global community leader and BD & Kols manager at [Kommunitas.net](http://kommunitas.net/). He was Head of Communications at Dappad.Among the launch platforms he mediated are Daostarter, Trustfi, ixirpad, cheersland, erax. He is advising many unlisted projects. As of 2023 September, he is one of the founders of Atlaspad. \
+Active in the crypto sector since 2019. Global community leader and BD & Kols manager at [Kommunitas.net](http://kommunitas.net/). Among the launch platforms he mediated are Daostarter, Trustfi, ixirpad, cheersland, erax. He is advising many unlisted projects. As of 2023 September, he is one of the founders of Atlaspad.&#x20;
+
+Çağlar, in his role as `Head of Com` & BD at Dappad, played a pivotal role in shaping the project's communication strategy and facilitating the establishment of its community. Working alongside the team, he diligently contributed to the successful adoption and growth of Dappad.app.
+
+At Dappgate, as the `Communications Director`, Çağlar led the team in managing the community-building process. Through effective communication strategies, they ensured that the project reached a wide audience, fostering its widespread acceptance.
+
+For **Metaverse Wear**, Çağlar secured `funding` by organizing VC meetings and highlighting the project's strengths. Throughout this process, he established strong communication with investors, emphasizing the project's potential.
+
+In his role as `Community Manager` for the **Warena Project**, Çağlar successfully managed the Turkish community and directed advertising processes. During this period, he effectively informed and engaged those interested in the project, resulting in the creation of a thriving community.
+
+Drawing from his experience in `Cold Marketing`, Çağlar devised strategic plans for the Turkey, Arab, Russia, and China regions for **ChadGPTCASH**. In this process, he developed successful strategies by understanding regional differences and focusing on market needs.
+
+With **GuruGPT,** Çağlar had the opportunity to establish numerous collaborations in the Turkish market and contribute to the project's growth. He also secured `funding` by organizing VC meetings to support the project financially.\
 
 
 • **linkedin:** [https://www.linkedin.com/in/cfirat](https://www.linkedin.com/in/cfirat)\
@@ -47,6 +61,12 @@ _**Work with (Experience):** `Scroll / DATS / Cheeseart / Simurglabs / Islamic C
 **Sena Atay |CMO** \
 In 2021, Sena Atay worked as a community & marketing manager at **Komodo**, `a company formed by the former co-founders of Ethereum`. In 2023, she also worked as Flutter developer in the same project. She is recognised as a successful female executive in the industry.&#x20;
 
+
+
+
+
+<figure><img src="../.gitbook/assets/Ekran Resmi 2024-02-06 22.10.34.png" alt="" width="188"><figcaption><p>Yunus Emre Gürlek</p></figcaption></figure>
+
 \
 **Yunus Emre Yoldaş |Backend & Smartcontract Developer**\
 _Emre, at the age of 13, ventured into the world of computers, initially introduced to it by friends as a means to play games. For the first five years, he regarded computers merely as a source of entertainment. However, later on, the creative potential within this realm steered him towards programming._
@@ -62,6 +82,10 @@ _A chance encounter with colleagues during a random university event led Emre to
 
 • **github:** [https://github.com/gAtrium](https://github.com/gAtrium)\
 &#x20;
+
+
+
+<figure><img src="../.gitbook/assets/Ekran Resmi 2024-02-06 22.09.32.png" alt="" width="235"><figcaption><p>Yiğid Balaban</p></figcaption></figure>
 
 **Yiğid Balaban |Frontend & UI/UX Developer**\
 _Designing and developing desktop applications, websites, and information systems since 2019, I have leveraged my technical expertise in blockchain-related projects. I've also taken the lead in several university teams at hackathons and competitions, collaborating with four distinct technical student communities._\
