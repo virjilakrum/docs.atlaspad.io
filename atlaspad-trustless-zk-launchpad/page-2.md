@@ -4,7 +4,7 @@ description: Atlaspad Developer Team
 
 # 👥 Team of the "Atlaspad"
 
-#### Team Members
+#### `Core Members`
 
 <figure><img src="../.gitbook/assets/Ekran Resmi 2024-02-06 22.05.23.png" alt="" width="188"><figcaption><p>Çağlar Fırat</p></figcaption></figure>
 
@@ -34,7 +34,8 @@ With **GuruGPT,** Çağlar had the opportunity to establish numerous collaborati
 **Public Sector:** _He is the founder of the Siber Vatan Blockchain Team (Cuberium Sec.) established by the Republic of TR Digital Transformation Office and the Ministry of Technology and Industry of TR._
 
 \
-**SKILLS**\
+Skills\
+\------\
 **React:**_`Next.js`_\
 **Node.js:**_`Express.js`_\
 **Typescript**:_`o1js`_\
@@ -50,7 +51,7 @@ With **GuruGPT,** Çağlar had the opportunity to establish numerous collaborati
 **UI:**_`Figma, Spline, Dora`_\
 **Web3:** _`EVM, Ceramic Network, Avalanche C Scroll, , HAQQ, Moralis, APTOS, Sui, BNBchain, Goerli, Sepolia, Ganache, Hardhat, Berkeley`_\
 **Provider:**_`Rainbow-Kit, Metamask-SDK, Ethers.js, Web3.js`_\
-**ZkApps:**_`o1js, MINA Protocol, ZoKrates`_\
+**ZkApps:**_`o1js, ZoKrates`_\
 _**Work with (Experience):** `Scroll / DATS / Cheeseart / Simurglabs / Islamic Coin / Solana / Hyperledger / Sittaris`_\
 **Representative:** _`Hyperledger, Solana Allstars, Aleo`_\
 **linkedin:** [https://www.linkedin.com/in/baturalpguvenc](https://www.linkedin.com/in/baturalpguvenc) \
@@ -76,6 +77,9 @@ _While exploring the Android community, Emre gained insights into the inner work
 _In the initial months, Emre rapidly acquired proficiency in programming languages like_ `C and C++`. _Challenges such as the lack of notifications for grade announcements from his university's automation system led him to delve into **web scraping** using_ `Selenium and Python`. _He later optimized this process to use pure requests instead of emulating a browser window. Emre also developed practical tools to simplify his daily life._
 
 _A chance encounter with colleagues during a random university event led Emre to join their community, which eventually became the foundation of their group. Within this group, his primary role has been to provide clients with **web2/3 websites**, all while standing out in the **blockchain and cryptography** domain through the use of_ `TypeScript`.\
+\
+Skills\
+\------\
 
 
 • **linkedin:** [https://www.linkedin.com/in/yunus-emre-yolda%C5%9F/](https://www.linkedin.com/in/yunus-emre-yolda%C5%9F/)
@@ -98,7 +102,27 @@ _I have a strong command of programming languages such as `C#`, `C`, and `Python
 **Osman Nuri Yıldız |Full-stack Developer**
 
 Full-stack web, mobile and Blockchain developer.\
-Graduated from Computer Engineering in 2023. Presently working as a web and mobile developer remotely in iyiMakina, an Istanbul-based startup building an innovative online marketplace.Concurrently pursuing a master's degree in Business Administration (MBA). Active member of Cuberium, a Blockchain developer team. Participated in various Web3 events and hackathons, including Devconnect 2023, Istanbul Blockchain Week, and Solana Allstars meetings. Has extensive experience in technologies such as `JavaScript, TypeScript, React, React Native, Linux, Git, and Docker`. Additionally, has foundational experience in EVM-compatible smart contract development.
+Graduated from Computer Engineering in 2023. Presently working as a web and mobile developer remotely in iyiMakina, an Istanbul-based startup building an innovative online marketplace.Concurrently pursuing a master's degree in Business Administration (MBA). Active member of Cuberium, a Blockchain developer team. Participated in various Web3 events and hackathons, including Devconnect 2023, Istanbul Blockchain Week, and Solana Allstars meetings. Has extensive experience in technologies such as `JavaScript, TypeScript, React, React Native, Linux, Git, and Docker`. Additionally, has foundational experience in EVM-compatible smart contract development.\
+\
+Skills\
+\------\
+**React:**_`Next.js, Nuxt.js, Vue.js`_\
+**Node.js:**_`Express.js`_\
+**Typescript**:_`o1js`_\
+**Smart Contracts:**_`Solidity, OpenZeppelin`_\
+**API**:_`GraphQL`_\
+**Authentication:**_`Oauth2,Red-black Trees`_\
+**Cloud:**_`Firebase, AWS`_\
+**Container:**_`Docker Compose`_\
+**Style:**_`wagmi, Css, Less, tailwind.css, Sass/scss`_\
+**ORM:**_`Prisma`_\
+**Integration:**_`Infura, Moralis, Google, Youtube, GPT, Git`_\
+**UI:**_`Figma`_\
+**Web3:** _`EVM, HAQQ, Goerli, Sepolia, Ganache, Hardhat, Berkeley`_\
+**Provider:**_`Rainbow-Kit, Metamask-SDK, Ethers.js, Web3.js`_\
+**ZkApps:**_`o1js, ZoKrates`_\
+_**Work with (Experience):** `İyi Makine, Cuberium Security`_\
+**Representative:** _`Hyperledger Foundation`_
 
 • **linkedin:** [https://www.linkedin.com/in/osmannyildiz/](https://www.linkedin.com/in/osmannyildiz/)
 
@@ -113,7 +137,59 @@ _As of 2021, Berk is a third-year computer engineering student at Bülent Ecevit
 
 _In July 2023, with the support of the Ministry of Industry and Technology Digital Transformation Office, Berk founded Cuberium, **Turkey's first blockchain team, within Siber Vatan. With the Cuberium team, he conducted training and studies on blockchain architecture and smart contracts**. Together with the team, Berk established their own blockchain education platform, **cublab.org**_
 
-_In 2024, he started working as a contract developer at AtlasPad, continuing to improve himself in ZK (Zero-Knowledge) technology. Additionally, Berk is proficient in_ `TypeScript` _and_ `o1js`, _further enhancing his capabilities in the field of blockchain technology and development._
+_In 2024, he started working as a contract developer at AtlasPad, continuing to improve himself in ZK (Zero-Knowledge) technology. Additionally, Berk is proficient in_ `TypeScript` _and_ `o1js`, _further enhancing his capabilities in the field of blockchain technology and development._\
+\
+Skills\
+\------\
+**Typescript**:_`(o1js)`_\
+**Web:** _`(HTML)`_\
+**Smart Contracts:** _`(Solidity, OpenZeppelin)`_\
+**Container:**_`Docker Compose`_\
+**Style:**_`wagmi, Css`_\
+**Integration:**_`Infura, Moralis, GPT`_\
+**UI:**_`Figma`_\
+**Web3:** _`EVM, HAQQ, Goerli, Ganache, Hardhat`_\
+**Provider:**_`Metamask-SDK, Ethers.js, Web3.js`_\
+**ZkApps:**_`o1js`_\
+_**Work with (Experience):** `Serim Software Solutions, Cuberium Security`_\
+**Representative:** _`Hyperledger Foundation`_
 
 • **linkedin:** [https://www.linkedin.com/in/berk%C4%B1cekk](https://www.linkedin.com/in/berk%C4%B1cekk)\
+\
 • **github:** [https://github.com/berkcicekk](https://github.com/berkcicekk)
+
+
+
+
+
+**`Team Members`**\
+\
+**Muhammed Akıncı**
+
+_Department: Software Engineering._\
+_Active Blockchain & AI Developer:  Cuberium & Atlaspad_\
+_Public Sector: Artificial Intelligence and Blockchain developer of the Siber Vatan Blockchain Team (Cuberium Sec.) established by the TR Digital Transformation Office and the TR Ministry of Technology and Industry_\
+\
+Skills\
+\------
+
+&#x20;**LLM & AI:** _`(Python: Mathplotlib, Django, Numpy, BeautfiulSoup, Tensorflow)`_\
+&#x20;**Application:** _`(C, C++, C#)`_\
+&#x20;**Web:** _`(HTML, PHP)`_\
+&#x20;**Javascript Framework:** _`(React.js)`_\
+&#x20;**Javascript**\
+&#x20;**Smart Contracts:** _`(Solidity)`_\
+&#x20;**API:** _`(OpenAPI, OpenAI, Google, Kafka)`_\
+&#x20;**Style:** _`(CSS, SCSS)`_\
+&#x20;**Integration:** _`GPT, Git, API`_\
+&#x20;**UI:** _`(Figma, Canva)`_\
+&#x20;**Web3:** _`(EVM, Hyperledger Fabric)`_\
+&#x20;**Provider:** _`(Metamask-SDK, Ethers.js)`_\
+&#x20;**ZkApp Framework:** _`(Basic o1js)`_\
+&#x20;**Work with (Experience):** _`Cuberium / Islamic Coin / Solana / Hyperledger Fabric`_\
+&#x20;**Representative:** _`Hyperledger Foundation, Solana Allstars Ankara`_\
+\
+&#x20;• linkedin: [https://www.linkedin.com/in/muhammedakinci/](https://www.linkedin.com/in/muhammedakinci/)
+
+&#x20;• github: [https://github.com/MuhammedAkinci](https://github.com/MuhammedAkinci)
+
