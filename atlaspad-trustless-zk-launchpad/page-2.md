@@ -87,17 +87,20 @@ Skills\
 • **github:** [https://github.com/gAtrium](https://github.com/gAtrium)\
 &#x20;
 
-<figure><img src="../.gitbook/assets/Ekran Resmi 2024-02-06 22.22.47.png" alt="" width="188"><figcaption><p>Yiğid Balaban</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Ekran Resmi 2024-02-06 22.22.47.png" alt="" width="188"></figure>
 
-**Yiğid Balaban |Frontend & UI/UX Developer**\
-_Designing and developing desktop applications, websites, and information systems since 2019, I have leveraged my technical expertise in blockchain-related projects. I've also taken the lead in several university teams at hackathons and competitions, collaborating with four distinct technical student communities._\
-_**Proficient** in `JavaScript/TypeScript`, `HTML`, `CSS`, and `SCSS`,_ \
-_I have a strong command of programming languages such as `C#`, `C`, and `Python`, adapting these skills to blockchain development. My experience extends to version control systems like `Git/GitHub` and various project development methodologies, ensuring a well-rounded approach to blockchain technology._\
-\
-• **linkedin:** [https://www.linkedin.com/in/fybx](https://www.linkedin.com/in/fybx)
+**Yiğid BALABAN | Front-end & UI/UX Developer**
 
-• **github:** [https://github.com/fybx](https://github.com/fybx)\
-&#x20;
+Yigid BALABAN is a 3rd year student at Uludag University, majoring in Computer Engineering. He is also the founder of [arbeit studio](https://arbeit.studio) and [Uludag Technology and Philosophy Community](https://instagram.com/uludagtft). His first interaction with computers was back when he was 4, and from that age, his curiosity and admirance against technology only developed further.
+
+Some keypoints:
+
+- Designing and developing desktop applications, websites, and information systems since 2019, he has leveraged his technical expertise in blockchain-related projects. He has also taken the lead in several university teams at hackathons and competitions, collaborating with four distinct technical student communities.
+- Proficient in `JavaScript/TypeScript`, `HTML`, `CSS`, and `SCSS`. Actively developing [The Genesis Framework](https://git.arbeit.studio/genesis), a front-end framework that is utilized by several different websites.
+- Has a strong command of programming languages such as `C#`, `C`, `Dart`, and `Python`, adapting these skills to blockchain development. His experience extends to version control systems like `Git/GitHub` and various project development methodologies, ensuring a well-rounded approach to blockchain technology.
+
+- **LinkedIn:** [https://www.linkedin.com/in/fybx](https://www.linkedin.com/in/fybx)
+- **GitHub:** [https://github.com/fybx](https://github.com/fybx)\
 
 **Osman Nuri Yıldız |Full-stack Developer**
 
