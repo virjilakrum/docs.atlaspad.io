@@ -28,12 +28,12 @@ _As of 2023 September, he is one of the founders of Atlaspad. Çağlar, in his r
 <figure><img src="../.gitbook/assets/1.png" alt="" width="188"><figcaption><p>Baturalp Güvenç</p></figcaption></figure>
 
 **Baturalp Güvenç | CTO** \
-_Graduated Department: Computer Engineering. (2018)_ \
-_Active SmartContract Developer: DATS Project & Arbeit Studio & Cuberium_ \
-_Public Sector: He is the founder of the Siber Vatan Blockchain Team (Cuberium Sec.) established by the Republic of TR Digital Transformation Office and the Ministry of Technology and Industry of TR._
+_**Graduated Department:** Computer Engineering. (2018)_ \
+_**Active SmartContract Developer:** DATS Project & Arbeit Studio & Cuberium_ \
+_**Public Sector:** He is the founder of the Siber Vatan Blockchain Team (Cuberium Sec.) established by the Republic of TR Digital Transformation Office and the Ministry of Technology and Industry of TR._
 
-Skills:\
 \
+Skills:\
 **React:** `Next.js` \
 **Node.js:** `Express.js` \
 **Typescript** \
@@ -79,7 +79,7 @@ _•_ linkedin: [https://www.linkedin.com/in/ataysena/](https://www.linkedin.com
 \
 &#x20;_Emre also developed practical tools to simplify his daily life. A chance encounter with colleagues during a random university event led Emre to join their community, which eventually became the foundation of their group. Within this group, his primary role has been to provide clients with web2/3 websites, all while standing out in the blockchain and cryptography domain through the use of_ `TypeScript.`
 
-### Skills
+Skills
 
 **React:** `Next.js, Nuxt.js, Vue.js` \
 **Node.js** \
@@ -98,15 +98,37 @@ _•_ linkedin: [https://www.linkedin.com/in/ataysena/](https://www.linkedin.com
 \
 • linkedin: [https://www.linkedin.com/in/yunus-emre-yolda%C5%9F/](https://www.linkedin.com/in/yunus-emre-yolda%C5%9F/)\
 • github: [https://github.com/gAtrium](https://github.com/gAtrium)\
+\
 
 
-Yiğid Balaban |Frontend & UI/UX Developer Designing and developing desktop applications, websites, and information systems since 2019, I have leveraged my technical expertise in blockchain-related projects. I've also taken the lead in several university teams at hackathons and competitions, collaborating with four distinct technical student communities. Proficient in JavaScript/TypeScript, HTML, CSS, and SCSS, I have a strong command of programming languages such as C#, C, and Python, adapting these skills to blockchain development. My experience extends to version control systems like Git/GitHub and various project development methodologies, ensuring a well-rounded approach to blockchain technology.
+<figure><img src="../.gitbook/assets/4.png" alt="" width="188"><figcaption><p>Yiğid Balaban</p></figcaption></figure>
+
+**Yiğid Balaban | Frontend & UI/UX Developer**&#x20;
+
+\
+&#x20;_Designing and developing desktop applications, websites, and information systems since 2019, I have leveraged my technical expertise in blockchain-related projects. I've also taken the lead in several university teams at hackathons and competitions, collaborating with four distinct technical student communities. Proficient in_ `JavaScript/TypeScript, HTML, CSS, and SCSS`, _I have a strong command of programming languages such as_ `C#, C, and Python`, _adapting these skills to blockchain development. My experience extends to version control systems like_ `Git/GitHub` _and various project development methodologies, ensuring a well-rounded approach to blockchain technology._
 
 ### Skills:
 
-React:Next.js, Nuxt.js, Barba.js Python Node.js:Express.js Javascript:Genesis.js API:GraphQL Authentication:Oauth2, Auth0 Cloud:Firebase, AWS Container:Docker Compose Style:wagmi, Css, Less, tailwind.css, Sass/scss Integration:Google, Youtube, GPT, Git UI:Figma, Dora, Relume, Adobe Photoshop Representative: IEEE
+**React:** `Next.js, Nuxt.js, Barba.js` \
+**Python** \
+**Node.js:** `Express.js` \
+**Javascript:** `Genesis` \
+**API:** `GraphQL` \
+**Authentication:** `Oauth2, Auth0` \
+**Cloud:** `Firebase, AWS` \
+**Container:** `Docker Compose` \
+**Style:** `wagmi, Css, Less, tailwind.css, Sass/scss` \
+**Integration:** `Google, Youtube, GPT, Git` \
+**UI:** `Figma, Dora, Relume, Adobe Photoshop` \
+**Representative:** `IEEE`
 
-• linkedin: https://www.linkedin.com/in/fybx • github: https://github.com/fybx
+• linkedin: [https://www.linkedin.com/in/fybx/](https://www.linkedin.com/in/fybx/)\
+• github: [https://github.com/fybx](https://github.com/fybx)
+
+
+
+
 
 Osman Nuri Yıldız |Full-stack Developer Full-stack web, mobile and Blockchain developer. Graduated from Computer Engineering in 2023. Presently working as a web and mobile developer remotely in iyiMakina, an Istanbul-based startup building an innovative online marketplace.Concurrently pursuing a master's degree in Business Administration (MBA). Active member of Cuberium, a Blockchain developer team. Participated in various Web3 events and hackathons, including Devconnect 2023, Istanbul Blockchain Week, and Solana Allstars meetings. Has extensive experience in technologies such as JavaScript, TypeScript, React, React Native, Linux, Git, and Docker. Additionally, has foundational experience in EVM-compatible smart contract development.
 
