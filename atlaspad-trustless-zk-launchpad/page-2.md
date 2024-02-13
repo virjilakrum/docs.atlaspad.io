@@ -8,9 +8,9 @@ description: Atlaspad Developer Team
 
 <figure><img src="../.gitbook/assets/7.png" alt="" width="188"><figcaption><p>Çağlar Fırat</p></figcaption></figure>
 
-**Caglar Firat |CEO** \
+**Caglar Firat | CEO** \
 \
-_Active in the crypto sector since 2019. Global community leader and BD & Kols manager at Kommunitas.net. Among the launch platforms he mediated are Daostarter, Trustfi, ixirpad, cheersland, erax. He is advising many unlisted projects._ \
+&#x20;_Active in the crypto sector since 2019. Global community leader and BD & Kols manager at Kommunitas.net. Among the launch platforms he mediated are Daostarter, Trustfi, ixirpad, cheersland, erax. He is advising many unlisted projects._ \
 _As of 2023 September, he is one of the founders of Atlaspad. Çağlar, in his role as Head of Com & BD at Dappad, played a pivotal role in shaping the project's communication strategy and facilitating the establishment of its community._
 
 \
@@ -25,32 +25,34 @@ _As of 2023 September, he is one of the founders of Atlaspad. Çağlar, in his r
 
 
 
-Baturalp Güvenç |CTO |Smartcontract Developer \
-Graduated Department: Computer Engineering. (2018) \
-Active SmartContract Developer: DATS Project & Arbeit Studio & Cuberium \
-Public Sector: He is the founder of the Siber Vatan Blockchain Team (Cuberium Sec.) established by the Republic of TR Digital Transformation Office and the Ministry of Technology and Industry of TR.
+<figure><img src="../.gitbook/assets/1.png" alt="" width="188"><figcaption><p>Baturalp Güvenç</p></figcaption></figure>
+
+**Baturalp Güvenç | CTO** \
+_Graduated Department: Computer Engineering. (2018)_ \
+_Active SmartContract Developer: DATS Project & Arbeit Studio & Cuberium_ \
+_Public Sector: He is the founder of the Siber Vatan Blockchain Team (Cuberium Sec.) established by the Republic of TR Digital Transformation Office and the Ministry of Technology and Industry of TR._
 
 Skills:\
 \
-React: `Next.js` \
-Node.js: `Express.js` \
-Typescript \
-Smart Contracts: `Solidity, OpenZeppelin` \
-Data fetching: `Query` \
-API: `GraphQL, OpenAPI` \
-Authentication: `Oauth2, Auth0, Web3, Merkle Trees` \
-Cloud: `Firebase, AWS` \
-Style: `wagmi, three.js, styled-components, tailwind.css, Sass/scss` \
-ORM: `Prisma Testing:Jest, Cypress, Integration:Infura, Stripe, Google, Youtube, GPT, Git` \
-UI: `Figma, Spline, Dora` \
-Web3: `EVM, Ceramic Network, Avalanche C Scroll, , HAQQ, Moralis, APTOS, Sui, BNBchain, Goerli, Sepolia, Ganache, Hardhat, Berkeley` \
-Provider: `Rainbow-Kit, Metamask-SDK, Ethers.js, Web3.js` \
-ZkApps: `o1js, ZoKrates` \
-Work with (Experience): `Scroll / DATS / Cheeseart / Simurglabs / Islamic Coin / Solana / Hyperledger / Sittaris` \
-Representative: `Hyperledger, Solana Allstars, Aleo` \
+**React:** `Next.js` \
+**Node.js:** `Express.js` \
+**Typescript** \
+**Smart Contracts:** `Solidity, OpenZeppelin` \
+**Data fetching:** `Query` \
+**API:** `GraphQL, OpenAPI` \
+**Authentication:** `Oauth2, Auth0, Web3, Merkle Trees` \
+**Cloud:** `Firebase, AWS` \
+**Style:** `wagmi, three.js, styled-components, tailwind.css, Sass/scss` \
+**ORM:** `Prisma Testing:Jest, Cypress, Integration:Infura, Stripe, Google, Youtube, GPT, Git` \
+**UI:** `Figma, Spline, Dora` \
+**Web3:** `EVM, Ceramic Network, Avalanche C Scroll, HAQQ, Moralis, APTOS, Sui, BNBchain, Goerli, Sepolia, Ganache, Hardhat, Berkeley` \
+**Provider:** `Rainbow-Kit, Metamask-SDK, Ethers.js, Web3.js` \
+**ZkApps:** `o1js, ZoKrates` \
+**Work with (Experience):** `Scroll / DATS / Cheeseart / Simurglabs / Islamic Coin / Solana / Hyperledger / Sittaris` \
+**Representative:** `Hyperledger, Solana Allstars, Aleo` \
 \
 • linkedin: [https://www.linkedin.com/in/baturalpguvenc/](https://www.linkedin.com/in/baturalpguvenc/)\
-• old github (broken): https://github.com/baturalpguvenc \
+• old github (broken): [https://github.com/baturalpguvenc ](https://drive.google.com/file/d/1d7OUKvGZulWpJcqrspK7gN7f8gqVqEOG/view?usp=drive\_link)\
 • new github: [https://github.com/virijlakrum](https://github.com/virjilakrum)
 
 
@@ -62,6 +64,8 @@ Sena Atay |CMO
 She graduated from Bilkent University, Information Technology and Information Systems. She knows various software languages like C++, C#, Java, .NET.
 
 She is active in crypto world since 2021 and she worked as a community & marketing manager at Komodo, a company formed by the former co-founders of Ethereum. She also worked as Flutter developer in the same project. She is recognised as a successful female executive in the industry. She also interests in mining and rig setup. She set up her own rig system and mined Ethereum for a long time. Additionaly, she loves to investigate new projects and make investments to them.
+
+
 
 Yunus Emre Yoldaş |Backend & Smartcontract Developer Emre, at the age of 13, ventured into the world of computers, initially introduced to it by friends as a means to play games. For the first five years, he regarded computers merely as a source of entertainment. However, later on, the creative potential within this realm steered him towards programming. While exploring the Android community, Emre gained insights into the inner workings of mobile phones, with a particular fascination for the kernel. This fascination prompted a shift in his perception of computers, leading him to transition to the Linux ecosystem. The extensive possibilities it offered to developers, coupled with its ease of configuration, opened up new horizons in programming for him. In the initial months, Emre rapidly acquired proficiency in programming languages like C and C++. Challenges such as the lack of notifications for grade announcements from his university's automation system led him to delve into web scraping using Selenium and Python. He later optimized this process to use pure requests instead of emulating a browser window. Emre also developed practical tools to simplify his daily life. A chance encounter with colleagues during a random university event led Emre to join their community, which eventually became the foundation of their group. Within this group, his primary role has been to provide clients with web2/3 websites, all while standing out in the blockchain and cryptography domain through the use of TypeScript.
 
