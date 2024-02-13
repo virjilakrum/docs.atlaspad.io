@@ -79,8 +79,7 @@ _•_ linkedin: [https://www.linkedin.com/in/ataysena/](https://www.linkedin.com
 \
 &#x20;_Emre also developed practical tools to simplify his daily life. A chance encounter with colleagues during a random university event led Emre to join their community, which eventually became the foundation of their group. Within this group, his primary role has been to provide clients with web2/3 websites, all while standing out in the blockchain and cryptography domain through the use of_ `TypeScript.`
 
-Skills
-
+Skills:\
 **React:** `Next.js, Nuxt.js, Vue.js` \
 **Node.js** \
 **Typescript** \
@@ -108,8 +107,7 @@ Skills
 \
 &#x20;_Designing and developing desktop applications, websites, and information systems since 2019, I have leveraged my technical expertise in blockchain-related projects. I've also taken the lead in several university teams at hackathons and competitions, collaborating with four distinct technical student communities. Proficient in_ `JavaScript/TypeScript, HTML, CSS, and SCSS`, _I have a strong command of programming languages such as_ `C#, C, and Python`, _adapting these skills to blockchain development. My experience extends to version control systems like_ `Git/GitHub` _and various project development methodologies, ensuring a well-rounded approach to blockchain technology._
 
-### Skills:
-
+Skills:\
 **React:** `Next.js, Nuxt.js, Barba.js` \
 **Python** \
 **Node.js:** `Express.js` \
@@ -130,11 +128,36 @@ Skills
 
 
 
-Osman Nuri Yıldız |Full-stack Developer Full-stack web, mobile and Blockchain developer. Graduated from Computer Engineering in 2023. Presently working as a web and mobile developer remotely in iyiMakina, an Istanbul-based startup building an innovative online marketplace.Concurrently pursuing a master's degree in Business Administration (MBA). Active member of Cuberium, a Blockchain developer team. Participated in various Web3 events and hackathons, including Devconnect 2023, Istanbul Blockchain Week, and Solana Allstars meetings. Has extensive experience in technologies such as JavaScript, TypeScript, React, React Native, Linux, Git, and Docker. Additionally, has foundational experience in EVM-compatible smart contract development.
+<figure><img src="../.gitbook/assets/WhatsApp Image 2024-02-12 at 13.09.00.jpeg" alt="" width="188"><figcaption><p>Osman Nuri Yıldız</p></figcaption></figure>
 
-### Skills
+**Osman Nuri Yıldız | Full-stack Developer**&#x20;
 
-React:Next.js, Nuxt.js, Vue.js Node.js:Express.js Typescript:o1js Smart Contracts:Solidity, OpenZeppelin API:GraphQL Authentication:Oauth2,Red-black Trees Cloud:Firebase, AWS Container:Docker Compose Style:wagmi, Css, Less, tailwind.css, Sass/scss ORM:Prisma Integration:Infura, Moralis, Google, Youtube, GPT, Git UI:Figma Web3: EVM, HAQQ, Goerli, Sepolia, Ganache, Hardhat, Berkeley Provider:Rainbow-Kit, Metamask-SDK, Ethers.js, Web3.js ZkApps:o1js, ZoKrates Work with (Experience): İyi Makine, Cuberium Security Representative: Hyperledger Foundation • linkedin: https://www.linkedin.com/in/osmannyildiz/ • github: https://github.com/osmannyildiz
+\
+_Full-stack web, mobile and Blockchain developer. Graduated from Computer Engineering in (2023)._ \
+\
+_Presently working as a web and mobile developer remotely in iyiMakina, an Istanbul-based startup building an innovative online marketplace.Concurrently pursuing a master's degree in Business Administration (MBA). Active member of Cuberium, a Blockchain developer team. Participated in various Web3 events and hackathons, including Devconnect 2023, Istanbul Blockchain Week, and Solana Allstars meetings. Has extensive experience in technologies such as_ `JavaScript, TypeScript, React, React Native, Linux, Git, and Docker`_. Additionally, has foundational experience in EVM-compatible smart contract development._
+
+Skills:\
+**React:** `Next.js, Nuxt.js, Vue.js` \
+**Node.js:** `Express.js` \
+**Typescript** \
+**Smart Contracts:** `Solidity, OpenZeppelin` \
+**API:** `GraphQL` \
+**Authentication:** `Oauth2, Red-black Trees` \
+**Cloud:** `Firebase, AWS` \
+**Container:** `Docker Compose` \
+**Style:** `wagmi, Css, Less, tailwind.css, Sass/scss` \
+**ORM:** `Prisma` \
+**Integration:** `Infura, Moralis, Google, Youtube, GPT, Git` \
+**UI:** `Figma` \
+**Web3:** `EVM, HAQQ, Goerli, Sepolia, Ganache, Hardhat, Berkeley` \
+**Provider:** `Rainbow-Kit, Metamask-SDK, Ethers.js, Web3.js` \
+**ZkApps:** `o1js, ZoKrates` \
+**Work with (Experience):** `İyi Makine, Cuberium Security Representative: Hyperledger Foundation` \
+\
+• linkedin: [https://www.linkedin.com/in/osmannyildiz/](https://www.linkedin.com/in/osmannyildiz/)\
+• github: [https://github.com/osmannyildiz](https://github.com/osmannyildiz)\
+
 
 Berk Çiçek | Smartcontract Developer
 
