@@ -69,13 +69,36 @@ _•_ linkedin: [https://www.linkedin.com/in/ataysena/](https://www.linkedin.com
 
 
 
+<figure><img src="../.gitbook/assets/3.png" alt="" width="188"><figcaption><p>Yunus Emre Yoldaş</p></figcaption></figure>
+
 **Yunus Emre Yoldaş | Backend & Smartcontract Developer** \
 &#x20;\
-&#x20;Emre, at the age of 13, ventured into the world of computers, initially introduced to it by friends as a means to play games. For the first five years, he regarded computers merely as a source of entertainment. However, later on, the creative potential within this realm steered him towards programming. While exploring the Android community, Emre gained insights into the inner workings of mobile phones, with a particular fascination for the kernel. This fascination prompted a shift in his perception of computers, leading him to transition to the Linux ecosystem. The extensive possibilities it offered to developers, coupled with its ease of configuration, opened up new horizons in programming for him. In the initial months, Emre rapidly acquired proficiency in programming languages like C and C++. Challenges such as the lack of notifications for grade announcements from his university's automation system led him to delve into web scraping using Selenium and Python. He later optimized this process to use pure requests instead of emulating a browser window. Emre also developed practical tools to simplify his daily life. A chance encounter with colleagues during a random university event led Emre to join their community, which eventually became the foundation of their group. Within this group, his primary role has been to provide clients with web2/3 websites, all while standing out in the blockchain and cryptography domain through the use of TypeScript.
+&#x20;_Emre, at the age of 13, ventured into the world of computers, initially introduced to it by friends as a means to play games. For the first five years, he regarded computers merely as a source of entertainment. However, later on, the creative potential within this realm steered him towards programming. While exploring the Android community,_ \
+\
+&#x20;_Emre gained insights into the inner workings of mobile phones, with a particular fascination for the kernel. This fascination prompted a shift in his perception of computers, leading him to transition to the_ `Linux` _ecosystem. The extensive possibilities it offered to developers, coupled with its ease of configuration, opened up new horizons in programming for him. In the initial months, Emre rapidly acquired proficiency in programming languages like_ `C and C++`_. Challenges such as the lack of notifications for grade announcements from his university's automation system led him to delve into web scraping using_ `Selenium and Python`_. He later optimized this process to use pure requests instead of emulating a browser window._ \
+\
+&#x20;_Emre also developed practical tools to simplify his daily life. A chance encounter with colleagues during a random university event led Emre to join their community, which eventually became the foundation of their group. Within this group, his primary role has been to provide clients with web2/3 websites, all while standing out in the blockchain and cryptography domain through the use of_ `TypeScript.`
 
 ### Skills
 
-React:Next.js, Nuxt.js, Vue.js Node.js Typescript Smart Contracts:Solidity, OpenZeppelin Operating Systems Authentication:Oauth2, Merkle Trees Cloud:Firebase, AWS Container:Docker Style:wagmi, Css, tailwind.css, Sass/scss Integration:Infura, Google, Youtube, GPT, Git UI:Figma Web3: EVM, HAQQ, Goerli, Sepolia, Ganache, Hardhat, Berkeley Provider:Rainbow-Kit, Metamask-SDK, Ethers.js, Web3.js ZkApps:o1js • linkedin: https://www.linkedin.com/in/yunus-emre-yolda%C5%9F/ • github: https://github.com/gAtrium
+**React:** `Next.js, Nuxt.js, Vue.js` \
+**Node.js** \
+**Typescript** \
+**Smart Contracts:** `Solidity, OpenZeppelin` \
+**Operating Systems** \
+**Authentication:** `Oauth2, Merkle Trees` \
+**Cloud:** `Firebase, AWS` \
+**Container:** `Docker` \
+**Style:** `wagmi, Css, tailwind.css, Sass/scss` \
+**Integration:** `Infura, Google, Youtube, GPT, Git` \
+**UI:** `Figma` \
+**Web3:** `EVM, HAQQ, Goerli, Sepolia, Ganache, Hardhat, Berkeley` \
+**Provider:** `Rainbow-Kit, Metamask-SDK, Ethers.js, Web3.js` \
+**ZkApps:** `o1js` \
+\
+• linkedin: [https://www.linkedin.com/in/yunus-emre-yolda%C5%9F/](https://www.linkedin.com/in/yunus-emre-yolda%C5%9F/)\
+• github: [https://github.com/gAtrium](https://github.com/gAtrium)\
+
 
 Yiğid Balaban |Frontend & UI/UX Developer Designing and developing desktop applications, websites, and information systems since 2019, I have leveraged my technical expertise in blockchain-related projects. I've also taken the lead in several university teams at hackathons and competitions, collaborating with four distinct technical student communities. Proficient in JavaScript/TypeScript, HTML, CSS, and SCSS, I have a strong command of programming languages such as C#, C, and Python, adapting these skills to blockchain development. My experience extends to version control systems like Git/GitHub and various project development methodologies, ensuring a well-rounded approach to blockchain technology.
 
