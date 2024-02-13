@@ -57,17 +57,21 @@ Skills:\
 
 
 
+<figure><img src="../.gitbook/assets/6.png" alt="" width="188"><figcaption><p>Sena Atay</p></figcaption></figure>
+
+**Sena Atay | CMO**
+
+&#x20;_She graduated from Bilkent University, Information Technology and Information Systems. She knows various software languages like_ `C++, C#, Java, .NET.`
+
+&#x20;_She is active in crypto world since 2021 and she worked as a community & marketing manager at Komodo, a company formed by the former co-founders of Ethereum. She also worked as_ `Flutter` _developer in the same project. She is recognised as a successful female executive in the industry. She also interests in mining and rig setup. She set up her own rig system and mined Ethereum for a long time. Additionaly, she loves to investigate new projects and make investments to them._\
+\
+_•_ linkedin: [https://www.linkedin.com/in/ataysena/](https://www.linkedin.com/in/ataysena/)
 
 
-Sena Atay |CMO
 
-She graduated from Bilkent University, Information Technology and Information Systems. She knows various software languages like C++, C#, Java, .NET.
-
-She is active in crypto world since 2021 and she worked as a community & marketing manager at Komodo, a company formed by the former co-founders of Ethereum. She also worked as Flutter developer in the same project. She is recognised as a successful female executive in the industry. She also interests in mining and rig setup. She set up her own rig system and mined Ethereum for a long time. Additionaly, she loves to investigate new projects and make investments to them.
-
-
-
-Yunus Emre Yoldaş |Backend & Smartcontract Developer Emre, at the age of 13, ventured into the world of computers, initially introduced to it by friends as a means to play games. For the first five years, he regarded computers merely as a source of entertainment. However, later on, the creative potential within this realm steered him towards programming. While exploring the Android community, Emre gained insights into the inner workings of mobile phones, with a particular fascination for the kernel. This fascination prompted a shift in his perception of computers, leading him to transition to the Linux ecosystem. The extensive possibilities it offered to developers, coupled with its ease of configuration, opened up new horizons in programming for him. In the initial months, Emre rapidly acquired proficiency in programming languages like C and C++. Challenges such as the lack of notifications for grade announcements from his university's automation system led him to delve into web scraping using Selenium and Python. He later optimized this process to use pure requests instead of emulating a browser window. Emre also developed practical tools to simplify his daily life. A chance encounter with colleagues during a random university event led Emre to join their community, which eventually became the foundation of their group. Within this group, his primary role has been to provide clients with web2/3 websites, all while standing out in the blockchain and cryptography domain through the use of TypeScript.
+**Yunus Emre Yoldaş | Backend & Smartcontract Developer** \
+&#x20;\
+&#x20;Emre, at the age of 13, ventured into the world of computers, initially introduced to it by friends as a means to play games. For the first five years, he regarded computers merely as a source of entertainment. However, later on, the creative potential within this realm steered him towards programming. While exploring the Android community, Emre gained insights into the inner workings of mobile phones, with a particular fascination for the kernel. This fascination prompted a shift in his perception of computers, leading him to transition to the Linux ecosystem. The extensive possibilities it offered to developers, coupled with its ease of configuration, opened up new horizons in programming for him. In the initial months, Emre rapidly acquired proficiency in programming languages like C and C++. Challenges such as the lack of notifications for grade announcements from his university's automation system led him to delve into web scraping using Selenium and Python. He later optimized this process to use pure requests instead of emulating a browser window. Emre also developed practical tools to simplify his daily life. A chance encounter with colleagues during a random university event led Emre to join their community, which eventually became the foundation of their group. Within this group, his primary role has been to provide clients with web2/3 websites, all while standing out in the blockchain and cryptography domain through the use of TypeScript.
 
 ### Skills
 
