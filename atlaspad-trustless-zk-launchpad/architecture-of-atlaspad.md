@@ -4,11 +4,9 @@ description: Technical Detail of Our zkApp Design
 
 # 🛠 Architecture of "Atlaspad"
 
-<div data-full-width="true">
+<figure><img src="../.gitbook/assets/diagram(24).png" alt=""><figcaption><p>Architecture of zkApp Launchpad</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Scenerio(2).png" alt=""><figcaption><p>Architecture of zkApp Launchpad</p></figcaption></figure>
 
-</div>
 
 **Platform Design and Layers**
 
@@ -20,8 +18,7 @@ Architecture Highlights:
 
 **1. Responsive Platform UI:** _Adapts to any device, offering a frictionless user interface._\
 **2. Web Client:** _Ensures robust performance and reliable transactions._\
-**3. AI Chatbot:** _Provides intelligent support, enhancing user engagement._
-
+**3. AI Chatbot:** _Provides intelligent support, enhancing user engagement._\
 **4. Crypto Dashboard:** _Enhancing user engagement._\
 &#x20;
 
@@ -55,6 +52,8 @@ Functionality:
 \- _Authentication based on Merkle Tree and token allocation information is entered through this layer._\
 &#x20;
 
+<figure><img src="../.gitbook/assets/diagram(25).png" alt=""><figcaption><p>User Interface Layer</p></figcaption></figure>
+
 **`2. Application Layer`**
 
 Components:
@@ -67,6 +66,10 @@ Functionality:
 \- _This layer utilizes the lightweight nature of the Mina network, allowing users to prove transactions while protecting their credentials._\
 \- _Users can perform presale transactions or request a refund if needed._
 
+
+
+<figure><img src="../.gitbook/assets/diagram(26).png" alt=""><figcaption><p>Application Layer</p></figcaption></figure>
+
 **`3. Network Layer`**
 
 Components:
@@ -78,8 +81,11 @@ Components:
 Functionality:
 
 \- _Each blockchain network uses its own oracle for price information and other external data._\
-\- _Users can perform staking transactions and stake their tokens through this layer._\
-&#x20;
+\- _Users can perform staking transactions and stake their tokens through this layer._
+
+
+
+<figure><img src="../.gitbook/assets/diagram(27).png" alt=""><figcaption><p>Network Layer</p></figcaption></figure>
 
 **`4. Data Storage and Verification Layer`**
 
@@ -144,6 +150,10 @@ Architecture Highlights:
 _- Off-Chain Storage with Homomorphic Encryption: Provides a secure way to compute on encrypted data._\
 _- IPFS or Celestia Data Availability: Offers decentralized storage solutions for persistent data availability._
 
+
+
+<figure><img src="../.gitbook/assets/diagram(28).png" alt=""><figcaption><p>Data Layer</p></figcaption></figure>
+
 **`5. Oracle Layer`**
 
 _Our primary objective is to incorporate the use of oracles into our system. To achieve this, we are planning to write a distinct Oracle for each Ethereum Virtual Machine (EVM) network that is connected to our zkApp. This is a deliberate strategy we are adopting in order to ensure robust and efficient communication and interaction between the various networks. We believe this is the most optimized and least compromising strategy available._\
@@ -154,7 +164,15 @@ _• In Atlas Oracle we will create ABIs to integrate with external data provide
 
 <figure><img src="../.gitbook/assets/Ekran Resmi 2024-02-05 16.36.20.png" alt="" width="375"><figcaption><p>Oracle</p></figcaption></figure>
 
+ 
+
+<figure><img src="../.gitbook/assets/diagram(29).png" alt=""><figcaption><p>Oracle Layer</p></figcaption></figure>
+
 </div>
+
+
+
+
 
 **`6. Wallet Layer:`**
 
@@ -174,7 +192,9 @@ Architecture Highlights:
 
 \- _The focus on core wallet functionalities ensures a secure and reliable financial environment._\
 \
-\----------------------------------------------------------------------------------------------------------------
+
+
+<figure><img src="../.gitbook/assets/diagram(30).png" alt=""><figcaption><p>Wallet Layer</p></figcaption></figure>
 
 \
 **Technology**\
@@ -186,7 +206,8 @@ Architecture Highlights:
 • _Launchpad utilizes **MMR Merkle Tree** algorithms in zkApp's offchain database and performs **nullifier** operations for access tokens to conduct zk-proof verifications._\
 • _There is **no KPI** due to zkApps_
 
-\
+***
+
 \
 **System Components**\
 \
@@ -231,14 +252,18 @@ Architecture Highlights:
 **Result**\
 \- _The Atlaspad ZK launchpad provides a secure and privacy-focused platform for crypto trading._\
 \- _The Merkle tree and zero-knowledge proof technologies are used create a secure experience for users, while ensuring that presale and staking functions are fully reliable, easy and efficient._\
-\-----------------------------------------------------------------------------------------------------------------
+
+
+***
+
+
 
 **Contract List**
 
 <figure><img src="../.gitbook/assets/diagram(20).png" alt=""><figcaption><p>Contract Networks</p></figcaption></figure>
 
 \
-**`Oracle Contract`**` ``-solidity`\
+**`Oracle Contract(s)`**` ``-solidity`\
 **`TokenLocker Contract`**` ``-solidity`\
 **`TokenStake Contract`**` ``-solidity`\
 **`TokenBurn Contract`**` ``-solidity`\
@@ -252,9 +277,13 @@ Architecture Highlights:
 **`MinaPresale Contract`**` ``- o1js`\
 **`Mina Claim Contract`**` ``- o1js`
 
-\--------------------------------------------------------------------------------------------------------------------
 
-**LINKS FOR ARCHITECTURE**
+
+***
+
+
+
+<mark style="color:blue;">**LINKS FOR ARCHITECTURE**</mark>
 
 \
 **Main Diagram:** [https://drive.google.com/file/d/1TXYCXCvuAvhIo7zmdxKimLUGs5smcgjy/view?usp=sharing](https://drive.google.com/file/d/1TXYCXCvuAvhIo7zmdxKimLUGs5smcgjy/view?usp=sharing)\
