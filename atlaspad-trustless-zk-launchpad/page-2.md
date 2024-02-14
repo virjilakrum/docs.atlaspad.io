@@ -17,7 +17,7 @@ _As of 2023 September, he is one of the founders of Atlaspad. Çağlar, in his r
 &#x20;_Working alongside the team, he diligently contributed to the successful adoption and growth of Dappad.app. At Dappgate, as the Communications Director, Çağlar led the team in managing the community-building process. Through effective communication strategies, they ensured that the project reached a wide audience, fostering its widespread acceptance. For Metaverse Wear, Çağlar secured funding by organizing VC meetings and highlighting the project's strengths. Throughout this process, he established strong communication with investors, emphasizing the project's potential. In his role as Community Manager for the Warena Project, Çağlar successfully managed the Turkish community and directed advertising processes. During this period, he effectively informed and engaged those interested in the project, resulting in the creation of a thriving community. Drawing from his experience in Cold Marketing,_&#x20;
 
 \
-&#x20;_Çağlar devised strategic plans for the Turkey, Arab, Russia, and China regions for ChadGPTCASH. In this process, he developed successful strategies by understanding regional differences and focusing on market needs. With GuruGPT, Çağlar had the opportunity to establish numerous collaborations in the Turkish market and contribute to the project's growth. He also secured funding by organizing VC meetings to support the project financially._
+&#x20;_Çağlar devised strategic plans for the `Turkey, Arab, Russia, and China regions` for ChadGPTCASH. In this process, he developed successful strategies by understanding regional differences and focusing on market needs. With GuruGPT, Çağlar had the opportunity to establish numerous collaborations in the Turkish market and contribute to the project's growth. He also secured funding by organizing VC meetings to support the project financially._
 
 • linkedin: [https://www.linkedin.com/in/cfirat/](https://www.linkedin.com/in/cfirat/)
 
@@ -216,8 +216,27 @@ Skills:\
 • linkedin: [https://www.linkedin.com/in/muhammedakinci/](https://www.linkedin.com/in/muhammedakinci/)\
 • github: [https://github.com/MuhammedAkinci](https://github.com/MuhammedAkinci)
 
-### Mehmet Hayırlı Department: Software Engineering. Active SmartContract Developer : Cuberium Public Sector: He is the founder of the Siber Vatan Blockchain Team (Cuberium Sec.) established by the Republic of TR Digital Transformation Office and the Ministry of Technology and Indusrty of TR. Skills:
 
-React: (Next.js) Smart Contracts: (Solidity, OpenZeppelin) Authentication: (Web3) UI: (Figma) Web3: (EVM, Goerli, Sepolia, Ganache, Hardhat) Provider: (Metamask-SDK, Ether.js, Web3.js) ZkApps: (MINA Protocol, Basic o1js) Work with (Experience): (Cuberium / Solana / Hyperledger Foundation) Representative: (Hyperledger Foundation, Solana Allstars)
 
-• linkedin: https://www.linkedin.com/in/mehmethayirli/ • github: https://github.com/mehmethayirli
+<figure><img src="../.gitbook/assets/2.png" alt="" width="188"><figcaption><p>Mehmet Hayırlı</p></figcaption></figure>
+
+**Mehmet Hayırlı**&#x20;
+
+**Department:** _Software Engineering._ \
+**Active SmartContract Developer:** _Cuberium_ \
+**Public Sector:** _He is the founder of the Siber Vatan Blockchain Team (Cuberium Sec.) established by the Republic of TR Digital Transformation Office and the Ministry of Technology and Indusrty of TR._ \
+
+
+Skills:\
+**React:** `(Next.js)` \
+**Smart Contracts:** `(Solidity, OpenZeppelin)` \
+**Authentication:** `(Web3)` \
+**UI:** `(Figma)` \
+**Web3:** `(EVM, Goerli, Sepolia, Ganache, Hardhat)` \
+**Provider:** `(Metamask-SDK, Ether.js, Web3.js)` \
+**ZkApps:** `(MINA Protocol, Basic o1js)` \
+**Work with (Experience):** `(Cuberium / Solana / Hyperledger Foundation)` \
+**Representative:** `(Hyperledger Foundation, Solana Allstars)`
+
+• linkedin: [https://www.linkedin.com/in/mehmethayirli](https://www.linkedin.com/in/mehmethayirli)\
+• github: [https://github.com/mehmethayirli](https://github.com/mehmethayirli)
