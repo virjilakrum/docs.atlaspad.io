@@ -159,25 +159,62 @@ Skills:\
 • github: [https://github.com/osmannyildiz](https://github.com/osmannyildiz)\
 
 
-Berk Çiçek | Smartcontract Developer
+<figure><img src="../.gitbook/assets/5.png" alt="" width="188"><figcaption><p>Berk Çiçek</p></figcaption></figure>
 
-Web security, blockchain researcher, smart contract developer, backend developer, ZK researcher. As of 2021, Berk is a third-year computer engineering student at Bülent Ecevit University. In 2022, he became a student at Siber Vatan where he received training in cybersecurity, network, and web security. In the same year, through a startup competition, he began researching the benefits of blockchain in cybersecurity. In July 2023, with the support of the Ministry of Industry and Technology Digital Transformation Office, Berk founded Cuberium, Turkey's first blockchain team, within Siber Vatan. With the Cuberium team, he conducted training and studies on blockchain architecture and smart contracts. Together with the team, Berk established their own blockchain education platform, cublab.org In 2024, he started working as a contract developer at AtlasPad, continuing to improve himself in ZK (Zero-Knowledge) technology. Additionally, Berk is proficient in TypeScript and o1js, further enhancing his capabilities in the field of blockchain technology and development.
+**Berk Çiçek | Smartcontract Developer**
+
+&#x20;_Web security, blockchain researcher, smart contract developer, backend developer, ZK researcher. As of 2021, Berk is a third-year computer engineering student at Bülent Ecevit University._ \
+\
+&#x20;_In 2022, he became a student at Siber Vatan where he received training in cybersecurity, network, and web security. In the same year, through a startup competition, he began researching the benefits of blockchain in cybersecurity. In July 2023, with the support of the Ministry of Industry and Technology Digital Transformation Office, Berk founded Cuberium, Turkey's first blockchain team, within Siber Vatan. With the Cuberium team, he conducted training and studies on blockchain architecture and smart contracts. Together with the team, Berk established their own blockchain education platform, cublab.org In 2024, he started working as a contract developer at AtlasPad, continuing to improve himself in `ZK (Zero-Knowledge)` technology. Additionally, Berk is medium level developer in `TypeScript and o1js`, further enhancing his capabilities in the field of blockchain technology and development._
+
+Skills:\
+**Javascript**\
+**Web:** `HTML` \
+**Smart Contracts:** `Solidity, OpenZeppelin`\
+**Container:** `Docker Compose` \
+**Style:** `wagmi, Css` \
+**Integration:** `Infura, Moralis, GPT` \
+**UI:** `Figma` \
+**Web3:** `EVM, HAQQ, Goerli, Ganache, Hardhat` \
+**Provider:** `Metamask-SDK, Ethers.js, Web3.js` \
+**ZkApps:** `o1js` \
+**Work with Experience:** `Serim Software Solutions, Cuberium Security` \
+**Representative:** `Hyperledger Foundation` \
+\
+• linkedin: [https://www.linkedin.com/in/berk%C4%B1cekk/](https://www.linkedin.com/in/berk%C4%B1cekk/)\
+• github: [https://github.com/berkcicekk](https://github.com/berkcicekk)
+
+### Team Members
+
+
+
+<figure><img src="../.gitbook/assets/8.png" alt="" width="188"><figcaption><p>Muhammed Akıncı</p></figcaption></figure>
+
+**Muhammed Akıncı**&#x20;
+
+\
+**Department:** _Software Engineering._ \
+**Active AI Developer:** _Cuberium_ \
+**Public Sector:** _Artificial Intelligence and Blockchain developer of the Siber Vatan Blockchain Team (Cuberium Sec.) established by the TR Digital Transformation Office and the TR Ministry of Technology and Industry_\
+**Languages:** _Turkish, Arabic, English_
 
 ### Skills
 
-Typescript:(o1js) Web: (HTML) Smart Contracts: (Solidity, OpenZeppelin) Container:Docker Compose Style:wagmi, Css Integration:Infura, Moralis, GPT UI:Figma Web3: EVM, HAQQ, Goerli, Ganache, Hardhat Provider:Metamask-SDK, Ethers.js, Web3.js ZkApps:o1js Work with (Experience): Serim Software Solutions, Cuberium Security Representative: Hyperledger Foundation • linkedin: https://www.linkedin.com/in/berk%C4%B1cekk
+**LLM & AI:** `(Python: Mathplotlib, Django, Numpy, BeautfiulSoup, Tensorflow)` \
+**Application:** `(C, C++, C#)` \
+**Web:** `(HTML, PHP)` \
+**Javascript Framework:** `(React.js)` \
+**API:** `(OpenAPI, OpenAI, Google, Kafka)` \
+**Style:** `(CSS, SCSS)` \
+**Integration:** `(GPT, API)`\
+**UI:** `(Figma, Canva)` \
+**Web3:** `(EVM, Hyperledger Fabric)` \
+**Provider:** `(Metamask-SDK, Ethers.js)` \
+**Work with (Experience):** `Cuberium / Islamic Coin / Solana / Hyperledger Fabric` \
+**Representative:** `Hyperledger Foundation, Solana Allstars Ankara`
 
-• github: https://github.com/berkcicekk
-
-Team Members
-
-Muhammed Akıncı Department: Software Engineering. Active Blockchain & AI Developer: Cuberium Public Sector: Artificial Intelligence and Blockchain developer of the Siber Vatan Blockchain Team (Cuberium Sec.) established by the TR Digital Transformation Office and the TR Ministry of Technology and Industry
-
-### Skills
-
-LLM & AI: (Python: Mathplotlib, Django, Numpy, BeautfiulSoup, Tensorflow) Application: (C, C++, C#) Web: (HTML, PHP) Javascript Framework: (React.js) Javascript API: (OpenAPI, OpenAI, Google, Kafka) Style: (CSS, SCSS) Integration: GPT, API UI: (Figma, Canva) Web3: (EVM, Hyperledger Fabric) Provider: (Metamask-SDK, Ethers.js) Work with (Experience): Cuberium / Islamic Coin / Solana / Hyperledger Fabric Representative: Hyperledger Foundation, Solana Allstars Ankara
-
-• linkedin: https://www.linkedin.com/in/muhammedakinci/ • github: https://github.com/MuhammedAkinci
+• linkedin: [https://www.linkedin.com/in/muhammedakinci/](https://www.linkedin.com/in/muhammedakinci/)\
+• github: [https://github.com/MuhammedAkinci](https://github.com/MuhammedAkinci)
 
 ### Mehmet Hayırlı Department: Software Engineering. Active SmartContract Developer : Cuberium Public Sector: He is the founder of the Siber Vatan Blockchain Team (Cuberium Sec.) established by the Republic of TR Digital Transformation Office and the Ministry of Technology and Indusrty of TR. Skills:
 
