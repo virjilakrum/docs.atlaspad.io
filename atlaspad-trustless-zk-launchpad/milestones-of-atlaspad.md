@@ -1,6 +1,6 @@
 # 🛣 Milestones of "Atlaspad"
 
-<figure><img src="../.gitbook/assets/tier.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/diagram(22).png" alt=""><figcaption><p>Milestones</p></figcaption></figure>
 
 #### Advanced Scope Milestones
 

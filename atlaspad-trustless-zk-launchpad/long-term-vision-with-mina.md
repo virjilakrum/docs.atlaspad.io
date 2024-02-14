@@ -7,7 +7,7 @@ description: >-
 
 # 👀 Long-term Vision with MINA
 
-
+<figure><img src="../.gitbook/assets/diagram(2)(1).png" alt=""><figcaption><p>Adoption MINA</p></figcaption></figure>
 
 1. **Global Accessibility for MINA:** AtlasPad becomes a global platform accessible to users from all corners of the world, breaking down geographical barriers in crypto investments and project funding.
 2. **Impactful NFT Marketplace:** AtlasPad's NFT marketplace hosts unique and high-value digital assets, attracting collectors, artists, and creators from various domains.
